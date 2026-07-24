@@ -67,10 +67,6 @@ I'm a final-year Computer Science undergraduate and full stack developer. I enjo
 ### GitHub Stats
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aaryanrana01&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com/?user=aaryanrana01&theme=radical&hide_border=true" />
 </p>
 
